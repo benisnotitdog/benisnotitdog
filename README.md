@@ -1,6 +1,6 @@
 # Hi, I'm a Software Engineering Intern Candidate 👋
 
-**Engineering student @ CUHK** | Hong Kong
+**Inforamtion Engineering student @ CUHK** | Hong Kong
 
 I'm passionate about building real-world digital products with clean code and great user experience. I'm keen on full-stack web and mobile development, open-source tooling, and writing maintainable code that ships.
 
